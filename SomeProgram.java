@@ -4,3 +4,12 @@ public class SomeProgram {
 		System.out.println("We will be Git experts, soon.");
     }
 }
+
+public void manageTheSatellite() {
+    // TODO implement
+}
+
+
+public void manageTheRocket() {
+    // soon (tm)
+}
