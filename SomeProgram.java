@@ -5,6 +5,13 @@ public class SomeProgram {
     }
 }
 
+
 public void manageTheRocket() {
     // soon (tm)
+
+public void manageTheSatellite() {
+    // TODO implement
+    // TODO implement
+    // TODO implement
+
 }
